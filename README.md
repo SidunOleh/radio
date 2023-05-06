@@ -1,6 +1,6 @@
 # Radio player for WordPress
 
-## Radio shorcode
+### Radio shorcode
 ```
 do_shortcode( '[radio]' )
 ```
