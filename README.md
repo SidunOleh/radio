@@ -1,6 +1,6 @@
-# Radio player for WordPress
+# Centova Cast radio player for WordPress
 
 ### Radio shortcode
 ```
-do_shortcode( '[radio]' )
+<?php do_shortcode( '[radio]' ) ?>
 ```
