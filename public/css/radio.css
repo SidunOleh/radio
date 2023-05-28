@@ -197,15 +197,6 @@
     background-color: white;
 }
 
-.radio__social {
-    cursor: pointer;
-    opacity: 0.7;
-}
-
-.radio__social:hover {
-    opacity: 1;
-}
-
 .history {
     position: absolute;
     right: 0;
