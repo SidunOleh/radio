@@ -169,6 +169,7 @@
     -webkit-transition: all 0.5s linear;
     transition: all 0.5s linear;
     margin-left: 10px;
+    pointer-events: none;
 }
 
 .radio__volume:hover input[type=range] {
@@ -176,6 +177,7 @@
     margin-right: 0px;
     -webkit-transition: all 0.5s linear;
     transition: all 0.5s linear;
+    pointer-events: auto;
 }
 
 .radio__volume input[type=range]::-webkit-slider-runnable-track {
