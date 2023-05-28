@@ -40,10 +40,6 @@
                     alt="">
                 <input type="range" min="0" max="10" value="10">
             </div>
-            <img 
-                src="<?php echo plugin_dir_url(  dirname( __FILE__ ) ) ?>img/social.svg" 
-                class="radio__social social" 
-                alt="">
         </div>
     
     </div>
